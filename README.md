@@ -1,5 +1,5 @@
 # The-Multitasker-Desktop-MacroPad
-Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with 5 keys and a bigger knob and a 0.91 inch OLED Screen
+Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with 5 keys (1 of these keys are just to figet with) and a bigger knob and a 0.91 inch OLED Screen
 *********************************************************************************************************
 # BOM:
 
