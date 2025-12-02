@@ -1,14 +1,16 @@
 # The-Multitasker-Desktop-MacroPad
 Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with 6 keys.
 # Assembly (Prediction)
-<img width="634" height="1004" alt="image" src="https://github.com/user-attachments/assets/276eb932-4294-48d1-ba5d-ec0a37c84831" />
 
+<img width="1366" height="696" alt="image" src="https://github.com/user-attachments/assets/6b73a781-e420-4493-9af5-1c375d7a6ce7" />
 
-<img width="609" height="981" alt="image" src="https://github.com/user-attachments/assets/8c3a8b9b-8e34-4151-8e36-4eac110e7561" />
+<img width="561" height="646" alt="image" src="https://github.com/user-attachments/assets/11027d7f-37b2-4096-850e-4dd8c81e4d21" />
 
+<img width="1122" height="509" alt="image" src="https://github.com/user-attachments/assets/9e2826a4-e5b0-47f5-85a0-5096524429ce" />
 
-<img width="624" height="584" alt="image" src="https://github.com/user-attachments/assets/a0fe6848-43cb-4d55-9a13-46a32e4f91c4" />
+<img width="486" height="589" alt="image" src="https://github.com/user-attachments/assets/c9da7fc7-9c95-4001-9cdd-87030a1ded73" />
 
+<img width="416" height="589" alt="image" src="https://github.com/user-attachments/assets/121b722c-e559-4b6b-bec7-546f57497827" />
 
 # PCB
 <img width="396" height="648" alt="image" src="https://github.com/user-attachments/assets/1f8bd243-502d-4487-9122-d6bfba9ea001" />
