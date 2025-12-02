@@ -1,5 +1,8 @@
 # The-Multitasker-Desktop-MacroPad
 Macro Pad for Multitasking opportunities. Inspired by Blueprint HackPad but with 6 keys.
+
+I thought of this idea due to the popular game on Roblox called Bee Swarm Simulator. And that I also love to take screenshots but everything I have to press 3 billion keys for it.
+
 # Assembly (Prediction)
 
 <img width="1366" height="696" alt="image" src="https://github.com/user-attachments/assets/6b73a781-e420-4493-9af5-1c375d7a6ce7" />
